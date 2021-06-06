@@ -1,0 +1,13 @@
+#n1{
+    align-self: center;
+    align-items: center;
+    width: 300px;
+    height: 500px;
+    background-color: white;
+}
+
+#profile-img{
+    align-self: center;
+    width: 270px;
+    height: 300px;
+}
